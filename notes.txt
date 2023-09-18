@@ -1,0 +1,8 @@
+I am Vignesh, exploring Git Hub Desktop
+
+GitHub Desktop is an open-source application that allows users to interact with GitHub using a graphical user interface (GUI)
+instead of a command line or web browser.
+It is free to use and is designed to simplify workflows and improve collaboration for developers.
+
+GitHub Desktop has a structured user interface with a button for each Git command.
+It hides much of the Git plumbing from the user, so developers can focus on the porcelain.
